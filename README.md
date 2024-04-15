@@ -11,21 +11,13 @@ A polling system API is an application programming interface that allows develop
  - MongoDB
  
 
- ## Install
-
-To install all the dependences of the project, run the following command:
-
-    git clone https://github.com/shakti1590/Polling-api-system.git
-    npm install
-    npm start
 
 
-#### Source Code:
- - Link : https://github.com/shakti1590/Polling-api-system
 
 
-#### Deployment Link:
- - Link : https://polling-api-system.vercel.app/
+
+
+
 
 
 
